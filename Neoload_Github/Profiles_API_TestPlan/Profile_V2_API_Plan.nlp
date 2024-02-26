@@ -1,0 +1,15 @@
+# Project description file
+
+project.name=Profile_V2_API_Plan
+project.version=8.7
+project.original.version=8.7
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+product.version=9.1.1
+product.original.version=9.2.2
+project.is-open-test-settings-after-upload=false
+project.id=0c01d1b1-ca22-4e39-9d5e-99c8cb6789eb
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
